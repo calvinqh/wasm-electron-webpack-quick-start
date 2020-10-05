@@ -3,3 +3,7 @@ dist/
 node_modules/
 thumbs.db
 .idea/
+
+# wasm create files
+example-wasm-crate/pkg/
+example-wasm-crate/target/
